@@ -192,7 +192,6 @@ if selected == 'Inventory Database':
     '''
     # :gear: Inventory tracker
 
-    **Welcome to Alice's Corner Store's intentory tracker!**
     This page reads and writes directly from/to our inventory database.
     '''
 
